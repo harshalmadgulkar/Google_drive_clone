@@ -1,0 +1,23 @@
+{
+  "name": "google-drive-clone-learned-by-devtown",
+  "version": "1.0.0",
+  "description": "Hello Everyone! Here I made clone of Google Drive using HTML and CSS. All this content I written is learnd from DEVTOWN from YouTube channel. They took a bootcamp for making project for Clone of GOOGLE DRIVE. Thanks for visiting 😊",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesandbox-app/static-template.git"
+  },
+  "keywords": [],
+  "author": "Ives van Hoorne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codesandbox-app/static-template/issues"
+  },
+  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
